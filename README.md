@@ -1,4 +1,6 @@
 # Correlation and regression for data analysis
+#### NAME: Jerowin Geo J A
+####  ROLL No: 212223100016
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
